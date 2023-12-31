@@ -1,4 +1,4 @@
-![Imagen]()
+![Imagen](https://github.com/elarreglador/DI-Ejercicio-de-CheckBox/blob/main/SCREENSHOTS/Social%20preview.png)
 
 
 ************************************
@@ -18,7 +18,7 @@ ACERCA DE LA APLICACION
 Esta aplicacion de escritorio basada en electron, crea un tests en el que todas las respuestas correctas
 son la A 
 
-![Imagen]()
+![Imagen](https://github.com/elarreglador/DI-Ejercicio-de-CheckBox/blob/main/SCREENSHOTS/Captura%20de%20pantalla%20de%202023-12-31%2019-02-45.png)
 
 
 ************************************
@@ -33,7 +33,7 @@ npm start
 
 De este modo obtendremos algo similar a esto:
 
-![Imagen]()
+![Imagen](https://github.com/elarreglador/DI-Ejercicio-de-CheckBox/blob/main/SCREENSHOTS/Captura%20de%20pantalla%20de%202023-12-31%2018-59-43.png)
 
 
 
